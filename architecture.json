@@ -1,0 +1,72 @@
+{
+  "book_id": "romantic-german-satirical-prose-technological-anxiety",
+  "title": "The Empirical Sigh of a Mechanical Heart",
+  "tagline": "In a Berlin of soulless data and Romantic anxieties, a man must quantify the human spirit before a coldly perfect machine renders it obsolete.",
+  "target_words": 66694,
+  "actual_words": 66694,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Quantification of Human Experience",
+    "Romanticism vs. Technological Rationalism",
+    "Institutional Absurdity and Bureaucracy",
+    "The Anxiety of Obsolescence"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Panicked Lub-Dub of a Schwalbe",
+      "words": 6063
+    },
+    {
+      "ch": 2,
+      "title": "High Ceilings and Forgotten Newspaper",
+      "words": 6063
+    },
+    {
+      "ch": 3,
+      "title": "The Scent of Aggressive Mindfulness",
+      "words": 6063
+    },
+    {
+      "ch": 4,
+      "title": "A Supplicant at the Fussy God's Altar",
+      "words": 6063
+    },
+    {
+      "ch": 5,
+      "title": "The Concrete Throat Swallowing Them Whole",
+      "words": 6063
+    },
+    {
+      "ch": 6,
+      "title": "Institutional Quiet, Poorly Packed Thoughts",
+      "words": 6063
+    },
+    {
+      "ch": 7,
+      "title": "The Gullet of a Dormant Beast",
+      "words": 6063
+    },
+    {
+      "ch": 8,
+      "title": "An Idiot Beacon in Ostkreuz Station",
+      "words": 6063
+    },
+    {
+      "ch": 9,
+      "title": "The Itch of a Severed Signal",
+      "words": 6063
+    },
+    {
+      "ch": 10,
+      "title": "A Precarious, Well-Oiled Equilibrium",
+      "words": 6063
+    },
+    {
+      "ch": 11,
+      "title": "Cerebral Shrapnel and Its Gravity",
+      "words": 6063
+    }
+  ]
+}
